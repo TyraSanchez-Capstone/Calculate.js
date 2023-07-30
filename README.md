@@ -1,4 +1,4 @@
-# Weight Loss Progress Tracker Script
+# Weight Progress Tracker Script
 
 This repository contains the script.js file for the Weight Loss Progress Tracker application. The script.js file is responsible for handling the form submission and updating the line chart to track weight loss progress over time.
 
